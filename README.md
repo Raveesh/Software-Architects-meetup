@@ -20,7 +20,8 @@ walking skeleton, but not the first time ??
 alistair cockburn .. walking skeleton
 97 things every architect should know
 ibm developer works mar06 eelees
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 Big Data Streaming. Chetan Kothari
 
